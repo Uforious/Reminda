@@ -1,105 +1,3 @@
-<template>
-  <v-container class="fill-height">
-    <v-responsive
-      class="align-centerfill-height mx-auto"
-      max-width="900"
-    >
-   
-      <v-img
-        class="mb-4"
-        height="150"
-        src="@/assets/logo.png"
-      />
-
-      <div class="text-center">
-        <div class="text-body-2 font-weight-light mb-n1">Welcome to</div>
-
-        <h1 class="text-h2 font-weight-bold">Reminda</h1>
-      </div>
-
-      <div class="py-4" />
-
-      <div v-if="selectedItem" class="card">
-        <!-- <img :src="selectedItem.image" :alt="selectedItem.text" class="image" /> -->
-        <h1 class="text-h2 font-weight-bold">{{ selectedItem.text }}</h1>
-      </div>
-
-      <v-row>
-        <v-col cols="12">
-          <v-card
-            class="mx-auto"
-            max-width="344"
-            rounded="lg"
-            variant="outlined"
-          >
-            <v-img
-              height="400px"
-              src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-              cover
-            />
-
-            <v-card-title>
-              Top western road trips
-            </v-card-title>
-          
-            <v-spacer/>
-          </v-card>
-        </v-col>
-      </v-row>
-
-      <v-row>
-        <v-col cols="12">
-          <v-card
-            class="mx-auto"
-            max-width="344"
-          >
-            <v-card-actions>
-              <!-- <v-btn
-                color="orange-lighten-2"
-                text="Explore"
-              /> -->
-
-              <v-btn
-                class="me-2 text-none"
-                color="#4f545c"
-                prepend-icon="mdi-export-variant"
-                variant="flat"
-                @click="shareToSocialMedia"
-              >
-                Share
-              </v-btn>
-              <v-spacer/>
-              <v-btn
-                class="text-none"
-                prepend-icon="mdi-check"
-                variant="text"
-                border
-                @click="selectRandomItem"
-              >
-                Select Post
-              </v-btn>
-            </v-card-actions>
-          </v-card>
-        </v-col>
-      </v-row>
-
-    </v-responsive>
-  </v-container>
-</template>
-
-
-<!-- <template>
-  <div class="app-container">
-    <div v-if="selectedItem" class="card">
-      <img :src="selectedItem.image" :alt="selectedItem.text" class="image" />
-      <p class="text">{{ selectedItem.text }}</p>
-    </div>
-    <button @click="selectRandomItem">Select Random</button>
-    <button @click="shareToSocialMedia">Share</button>
-  </div>
-</template> -->
-
-
 <script setup>
 import { ref, onMounted } from "vue";
 
@@ -153,6 +51,87 @@ const shareToSocialMedia = () => {
 onMounted(fetchItems);
 </script>
 
-<style>
+<template>
+  <v-container class="fill-height">
+    <v-responsive
+      class="align-centerfill-height mx-auto"
+      max-width="900"
+    >
+      <v-img
+        class="mb-4"
+        height="100"
+        src="@/assets/logo.png"
+      />
+
+      <div class="text-center">
+        <div class="text-body-2 font-weight-light mb-n1">Welcome to</div>
+
+        <h1 class="text-h2 font-weight-bold">Reminda</h1>
+      </div>
+
+      <div class="py-4" />
+
+      <v-row v-if="selectedItem">
+        <v-col cols="12">
+          <v-card
+            class="mx-auto"
+            max-width="344"
+            rounded="lg"
+            variant="outlined"
+          >
+            <v-img
+              height="400px"
+              :src="selectedItem.image" 
+              :alt="selectedItem.text"
+              cover
+            />
+
+            <v-card-title>
+              {{ selectedItem.text }}
+            </v-card-title>
+          
+            <v-spacer />
+          </v-card>
+        </v-col>
+      </v-row>
+
+      <v-row>
+        <v-col cols="12">
+          <v-card
+            class="mx-auto"
+            max-width="344"
+          >
+            <v-card-actions>
+              <v-btn
+                class="me-2 text-none"
+                color="#4f545c"
+                prepend-icon="mdi-export-variant"
+                variant="flat"
+                @click="shareToSocialMedia"
+              >
+                Share
+              </v-btn>
+
+              <v-spacer />
+
+              <v-btn
+                class="text-none"
+                prepend-icon="mdi-shuffle"
+                variant="text"
+                border
+                @click="selectRandomItem"
+              >
+                Shuffle Post
+              </v-btn>
+            </v-card-actions>
+          </v-card>
+        </v-col>
+      </v-row>
+    </v-responsive>
+  </v-container>
+</template>
+
+
+<style scoped>
 
 </style>
