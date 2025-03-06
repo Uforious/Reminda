@@ -1,27 +1,27 @@
 [
     {
       "id": 1,
-      "text": "Beautiful Sunset",
+      "text": "No rush, your time go come",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
     },
     {
       "id": 2,
-      "text": "Majestic Mountain",
+      "text": "Small small, na so person dey grow",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
     },
     {
       "id": 3,
-      "text": "City Skyline at Night",
+      "text": "Eyes on your own lane-comparison na thief of joy",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
     },
     {
       "id": 4,
-      "text": "Peaceful Beach",
+      "text": "You fit fall, but stand up dust body",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
     },
     {
       "id": 5,
-      "text": "Serene Forest",
+      "text": "Every day na new chance to try again",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
     }
 ]
