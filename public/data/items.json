@@ -1,53 +1,252 @@
 [
-    {
+  {
       "id": 1,
       "text": "No rush, your time go come",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    },
-    {
+  },
+  {
       "id": 2,
       "text": "Small small, na so person dey grow",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    },
-    {
+  },
+  {
       "id": 3,
       "text": "Eyes on your own lane-comparison na thief of joy",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    },
-    {
+  },
+  {
       "id": 4,
       "text": "You fit fall, but stand up dust body",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    },
-    {
+  },
+  {
       "id": 5,
       "text": "Every day na new chance to try again",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    },
-    {
+  },
+  {
       "id": 6,
       "text": "No be every fight you go fight-choose your battles",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    },
-    {
+  },
+  {
       "id": 7,
       "text": "If e easy, everybody for do am",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    },
-    {
+  },
+  {
       "id": 8,
+      "text": "Nothing wey you put effort go waste",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 9,
       "text": "Keep going, e go make sense last last",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    },
-    {
-      "id": 9,
-      "text": "Nothing wey you put effort go waste.",
-      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    },
-    {
+  },
+  {
       "id": 10,
       "text": "No be how far, na how well",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
-    }
+  },
+  {
+      "id": 11,
+      "text": "Wahala no dey finish, but you sef no go finish",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 12,
+      "text": "Strong head no be stubbornness-know when to adjust",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 13,
+      "text": "E no go better for giving up",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 14,
+      "text": "No let small wahala shake your big dream",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 15,
+      "text": "Breeze go blow, but stone wey strong no go move",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 16,
+      "text": "You don survive before, you go survive again",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 17,
+      "text": "No matter how dark, morning go still break",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 18,
+      "text": "Dem fit doubt you, but no doubt yourself",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 19,
+      "text": "The road no straight, but e still lead go front",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 20,
+      "text": "Problem no dey finish, but joy no suppose finish too",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 21,
+      "text": "Use sense follow your heart",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+      "id": 22,
+      "text": "No be everything eye see, mouth go talk",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 23,
+    "text": "Waka slow, no mean say you no go reach.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 24,
+    "text": "Your own blessing no fit miss you.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 25,
+    "text": "If e no work, e mean say better one dey come.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 26,
+    "text": "Na who no try dey regret pass.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 27,
+    "text": "Opportunity no dey shout, open eye make you see am.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 28,
+    "text": "Check well before you put hand for something.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 29,
+    "text": "No go carry another person wahala for head like gala.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 30,
+    "text": "Make plan, but no fear change.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 31,
+    "text": "Na people be wealth.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 32,
+    "text": "No forget who help you climb ladder.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 33,
+    "text": "If hand wash hand, both go clean.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 34,
+    "text": "Person wey dey always take, go soon run out of giver.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 35,
+    "text": "Respect no mean fear.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 36,
+    "text": "Kindness no be weakness.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 37,
+    "text": "If e good for you, e no mean say e go good for everybody.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 38,
+    "text": "No look down on person today, tomorrow fit change everything.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 39,
+    "text": "Better to dey alone than to follow bad company.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 40,
+    "text": "Person wey hear advice, no go lost for road.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 41,
+    "text": "Money dey come, but e need plan to stay.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 42,
+    "text": "No use today chop everything, think of tomorrow.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 43,
+    "text": "No be all business na sharp sharp money.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 44,
+    "text": "Your skill na asset-use am well.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 45,
+    "text": "Person wey sabi, go always see opportunity.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 46,
+    "text": "Hustle smart, no be just hustle hard.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 47,
+    "text": "Na small drops full river.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 48,
+    "text": "If you no plan, you dey plan to fail.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 49,
+    "text": "Riches no be by how much you get, but how well you use am.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  },
+  {
+    "id": 50,
+    "text": "E no matter where you start, na where you end matter pass.",
+    "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+  }
 ]
-  
