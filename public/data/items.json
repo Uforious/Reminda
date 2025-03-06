@@ -23,6 +23,31 @@
       "id": 5,
       "text": "Every day na new chance to try again",
       "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    },
+    {
+      "id": 6,
+      "text": "No be every fight you go fight-choose your battles",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    },
+    {
+      "id": 7,
+      "text": "If e easy, everybody for do am",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    },
+    {
+      "id": 8,
+      "text": "Keep going, e go make sense last last",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    },
+    {
+      "id": 9,
+      "text": "Nothing wey you put effort go waste.",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    },
+    {
+      "id": 10,
+      "text": "No be how far, na how well",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
     }
 ]
   
