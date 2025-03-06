@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "text": "Beautiful Sunset",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    },
+    {
+      "id": 2,
+      "text": "Majestic Mountain",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    },
+    {
+      "id": 3,
+      "text": "City Skyline at Night",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    },
+    {
+      "id": 4,
+      "text": "Peaceful Beach",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    },
+    {
+      "id": 5,
+      "text": "Serene Forest",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    }
+]
+  
